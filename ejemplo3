@@ -1,0 +1,16 @@
+package metodos1;
+import java.util.Scanner;
+ public class ejemplo3 {
+	public static void main(String[]args){
+		alerta();
+		autodestrucción();
+	}
+		public static void alerta(){
+			System.out.println("el contenido que usted observa es restringido");
+		}
+			public  static void  autodestrucción(){
+			System.out.println("esto explotara en 5 segundos");
+		}
+	
+
+}
